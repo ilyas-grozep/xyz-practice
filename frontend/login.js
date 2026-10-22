@@ -1,1 +1,3 @@
-function login() { return 'admin'; }
+function login() {
+  return 'user';
+}
